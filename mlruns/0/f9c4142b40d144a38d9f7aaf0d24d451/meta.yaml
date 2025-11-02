@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sands/Desktop/EMIPredictAI/mlruns/0/f9c4142b40d144a38d9f7aaf0d24d451/artifacts
+end_time: 1762059118067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9c4142b40d144a38d9f7aaf0d24d451
+run_name: regression_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762059118057
+status: 3
+tags: []
+user_id: sands
