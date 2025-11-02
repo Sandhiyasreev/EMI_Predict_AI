@@ -5,3 +5,9 @@ models/
 *.csv
 data/
 models/
+.venv/
+__pycache__/
+*.pkl
+*.csv
+*.log
+mlruns/
